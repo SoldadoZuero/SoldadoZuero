@@ -121,10 +121,10 @@ A collection of projects created while studying Django and exploring web develop
 │  🐳 Docker                                  │
 │  ███████████████░░░░░░░░░░  60%             │
 │                                             │
-│  ☕ Java                                    │
+│  ☕ Java                                     │
 │  ███████████░░░░░░░░░░░░░  45%              │
 │                                             │
-│  ⛏️ Minecraft Modding                        │
+│  ⛏️ Minecraft Modding                       │
 │  █████████░░░░░░░░░░░░░░░  35%              │
 │                                             │
 └─────────────────────────────────────────────┘
